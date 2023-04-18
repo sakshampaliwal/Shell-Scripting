@@ -23,7 +23,7 @@ done
 #While loops:
 
 echo While Loops........
-num=10
+num=15
 count=10
 
 while [ $count -le $num ]
